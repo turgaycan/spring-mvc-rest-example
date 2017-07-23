@@ -1,2 +1,4 @@
-This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
-This file was modified by IntelliJ IDEA 12.1.6 for binding GitHub repository
+Spring MVC and REST API web application. xml based declarative!
+The project includes how to integrate and interact Spring MVC and REST API(XML, JSON data type)
+
+There is also define of couchbase prop but not use in code just test connector case
