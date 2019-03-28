@@ -1,4 +1,4 @@
-package com.springapp.couchbase;
+/*package com.springapp.couchbase;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.couchbase.config.AbstractCouchbaseConfiguration;
@@ -25,4 +25,4 @@ public class CouchBaseConfig extends AbstractCouchbaseConfiguration {
     protected String getBucketPassword() {
         return "";
     }
-}
+}*/
